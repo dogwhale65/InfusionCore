@@ -1,0 +1,4 @@
+name: InfusionCore
+version: '${project.version}'
+main: infusion.infusioncore.InfusionCore
+api-version: '1.20'
